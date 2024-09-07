@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hemophilia Health App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #0077b6;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .content {
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #023047;
+        }
+        h2 {
+            font-size: 1.8em;
+            color: #028090;
+            margin-top: 30px;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .health-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: #023047;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            margin-top: 40px;
+        }
+        .contact {
+            margin-top: 20px;
+        }
+        .contact a {
+            color: #ffdd4a;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+        .social-media {
+            margin-top: 20px;
+        }
+        .social-media img {
+            width: 40px;
+            height: 40px;
+            margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Hemophilia Health App</h1>
+    <p>Your Health, Our Priority</p>
+</header>
+
+<div class="content">
+    <h2>Understanding Hemophilia</h2>
+    <p>Hemophilia is a rare blood disorder where the blood doesn't clot properly due to the lack of certain clotting factors. Managing hemophilia is crucial for maintaining a healthy lifestyle. This app provides you with resources and information to manage your condition effectively.</p>
+    
+    <img src="https://example.com/hemophilia_image.jpg" alt="Hemophilia Awareness" class="health-image">
+    
+    <h2>Healthy Living Tips</h2>
+    <p>Stay active, eat a balanced diet, and stay informed about your health. Regular check-ups with your healthcare provider are essential to monitor your condition and adjust your treatment plan as necessary.</p>
+    
+    <img src="https://example.com/healthy_living.jpg" alt="Healthy Living" class="health-image">
+</div>
+
+<footer>
+    <p>&copy; 2024 Hemophilia Health App. All Rights Reserved.</p>
+    <div class="contact">
+        <p>Contact us at <a href="mailto:aishabatool58@gmail.com">aishabatool58@gmail.com</a></p>
+        <div class="social-media">
+            <a href="https://www.linkedin.com/in/ayesha-batool-aba679241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+                <img src="https://example.com/linkedin_icon.png" alt="LinkedIn">
+            </a>
+        </div>
+    </div>
+</footer>
+
+</body>
+</html>
